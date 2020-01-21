@@ -2,7 +2,7 @@ readme.txt
 
 # Replication codes for the submission Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach 
 # authors: Xinzhi Zhang, Hong Kong Baptist University; Jeffrey C. F. Ho, Hong Kong Polytechnic University 
-# manuscript revised and resubmitted to Social Science Computer Review on 20 Jan 2020 
+# manuscript revised and resubmitted to ################ on 20 Jan 2020 
 
 #Filenames and Notes
 code_1_ddj_collection01.py 
