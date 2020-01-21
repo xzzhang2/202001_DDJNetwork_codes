@@ -16,4 +16,7 @@
 6. *code_5_ddj_networkmodels.R* (This R file performs all sort of network analysis for the co-retweeted network in step 4.)
 7. *code_6_ddj_collection2.py* (This Python file scrapes the users’ profile with the known user names (without logging in and API as the information is publicly available at the users’ homepage).)
 
-Note: The full paper will be available once it is finished. 
+ - Notes:
+
+ 1. The full paper, which is now under review in a journal, will be available once it is finished.
+ 2. A small part of the result of this project was included in a [Department of Computer Science Seminar - 2019 Series](https://www.comp.hkbu.edu.hk/v1/?page=seminars&id=540) in Sep 2019 as a case demonstration on the usage of social network analysis in the studies of communication practices on social media. The seminar was organized by the [DAAI University Research Cluster of HKBU](http://hkbu.ai/). 
