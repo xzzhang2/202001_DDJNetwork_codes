@@ -1,10 +1,12 @@
 # 202001_DDJNetwork_codes
 
- - This repository contains the replication codes of the paper #ddj co-retweeted network. The paper, as an on-going project, is entitled *Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach*
+ - This repository contains the replication codes of the paper *Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach*.
 
- - Authors Information: **Xinzhi Zhang** & **Jeffrey C. F. Ho**. Xinzhi Zhang (Ph.D., City University of Hong Kong) is an Assistant Professor at the Department of Journalism at Hong Kong Baptist University (xzzhang2@gmail.com). Jeffrey C. F. Ho (Ph.D., City University of Hong Kong) is an Assistant Professor at the School of Design of Hong Kong Polytechnic University (jeffrey.cf.ho@polyu.edu.hk).
+ - [**Update**] The paper has been accepted by *Social Science Computer Review* in Jan 2020 and will be forthcoming.
 
- - Corresponding: Xinzhi Zhang, xzzhang2@gmail.com; Tel: (+852) 3411-6559. Address: Department of Journalism, Hong Kong Baptist University, Kowloon Tong, Hong Kong. ORCID: 0000-0003-3479-9327. http://drxinzhizhang.com/
+ - Citation Information: Zhang, X. & Ho, J. C. F. (forthcoming). Exploring the fragmentation of the representation of data-driven journalism in the Twittersphere: A network analytics approach. *Social Science Computer Review*. [SSCI]
+
+ - Authors Information: **Xinzhi Zhang** & **Jeffrey C. F. Ho**. Xinzhi Zhang (Ph.D., City University of Hong Kong) is an Assistant Professor at the Department of Journalism at Hong Kong Baptist University (xzzhang2@gmail.com). Jeffrey C. F. Ho (Ph.D., City University of Hong Kong) is an Assistant Professor at the School of Design of Hong Kong Polytechnic University (jeffrey.cf.ho@polyu.edu.hk). Corresponding: Xinzhi Zhang, Department of Journalism, Hong Kong Baptist University, Kowloon Tong, Hong Kong. ORCID: 0000-0003-3479-9327.
 
  - The codes include:
 
@@ -19,4 +21,4 @@
  - Notes:
 
  1. The full paper, which is now under review in a journal, will be available once it is finished.
- 2. A small part of the result of this project was included in a [Department of Computer Science Seminar - 2019 Series](https://www.comp.hkbu.edu.hk/v1/?page=seminars&id=540) in Sep 2019 as a case demonstration on the usage of social network analysis in the studies of communication practices on social media. The seminar was organized by the [DAAI University Research Cluster of HKBU](http://hkbu.ai/). 
+ 2. A small part of the result of this project was included in a [Department of Computer Science Seminar - 2019 Series](https://www.comp.hkbu.edu.hk/v1/?page=seminars&id=540) in Sep 2019 as a case demonstration on the usage of social network analysis in the studies of communication practices on social media. The seminar was organized by the [DAAI University Research Cluster of HKBU](http://hkbu.ai/).
